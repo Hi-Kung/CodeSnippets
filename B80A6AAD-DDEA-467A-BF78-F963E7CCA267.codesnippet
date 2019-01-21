@@ -6,20 +6,19 @@
 	<string>passign</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, assign) &lt;#Type#&gt; &lt;#name#&gt;;
-</string>
+	<string>@property (nonatomic, assign) &lt;#TYPE#&gt; &lt;#var#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>AE3E66D6-6157-4BFA-9929-2767B0BA835D</string>
+	<string>B80A6AAD-DDEA-467A-BF78-F963E7CCA267</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>@property-assign</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>1</integer>
+	<integer>2</integer>
 </dict>
 </plist>
